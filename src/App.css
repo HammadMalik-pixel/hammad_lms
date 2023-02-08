@@ -27,6 +27,11 @@
 .App-link {
   color: #61dafb;
 }
+.card{
+  border-color: crimson;
+  border-radius: 10px;
+}
+
 
 @keyframes App-logo-spin {
   from {
